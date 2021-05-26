@@ -1,0 +1,19 @@
+{
+  "name": "viv-agario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servers.js",
+  "scripts": {
+    "start": "node servers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "socket.io": "^2.1.1",
+    "uuid": "^3.3.2"
+  }
+}
